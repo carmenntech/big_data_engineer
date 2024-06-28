@@ -1,0 +1,327 @@
+[
+    {
+        "id_venta": 101,
+        "cantidad": 5,
+        "precio": 100.0,
+        "id_cliente": 1,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3d"
+            },
+            "id": 1,
+            "nombre": "Juan P\u00c3\u00a9rez"
+        }
+    },
+    {
+        "id_venta": 101,
+        "cantidad": 5,
+        "precio": 100.0,
+        "id_cliente": 1,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3e"
+            },
+            "id": 2,
+            "nombre": "Mar\u00c3\u00ada Garc\u00c3\u00ada"
+        }
+    },
+    {
+        "id_venta": 101,
+        "cantidad": 5,
+        "precio": 100.0,
+        "id_cliente": 1,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3f"
+            },
+            "id": 3,
+            "nombre": "Carlos S\u00c3\u00a1nchez"
+        }
+    },
+    {
+        "id_venta": 101,
+        "cantidad": 5,
+        "precio": 100.0,
+        "id_cliente": 1,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c40"
+            },
+            "id": 4,
+            "nombre": "Ana L\u00c3\u00b3pez"
+        }
+    },
+    {
+        "id_venta": 101,
+        "cantidad": 5,
+        "precio": 100.0,
+        "id_cliente": 1,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c41"
+            },
+            "id": 5,
+            "nombre": "Luis Mart\u00c3\u00adnez"
+        }
+    },
+    {
+        "id_venta": 102,
+        "cantidad": 2,
+        "precio": 200.0,
+        "id_cliente": 2,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3d"
+            },
+            "id": 1,
+            "nombre": "Juan P\u00c3\u00a9rez"
+        }
+    },
+    {
+        "id_venta": 102,
+        "cantidad": 2,
+        "precio": 200.0,
+        "id_cliente": 2,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3e"
+            },
+            "id": 2,
+            "nombre": "Mar\u00c3\u00ada Garc\u00c3\u00ada"
+        }
+    },
+    {
+        "id_venta": 102,
+        "cantidad": 2,
+        "precio": 200.0,
+        "id_cliente": 2,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3f"
+            },
+            "id": 3,
+            "nombre": "Carlos S\u00c3\u00a1nchez"
+        }
+    },
+    {
+        "id_venta": 102,
+        "cantidad": 2,
+        "precio": 200.0,
+        "id_cliente": 2,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c40"
+            },
+            "id": 4,
+            "nombre": "Ana L\u00c3\u00b3pez"
+        }
+    },
+    {
+        "id_venta": 102,
+        "cantidad": 2,
+        "precio": 200.0,
+        "id_cliente": 2,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c41"
+            },
+            "id": 5,
+            "nombre": "Luis Mart\u00c3\u00adnez"
+        }
+    },
+    {
+        "id_venta": 103,
+        "cantidad": 3,
+        "precio": 150.0,
+        "id_cliente": 3,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3d"
+            },
+            "id": 1,
+            "nombre": "Juan P\u00c3\u00a9rez"
+        }
+    },
+    {
+        "id_venta": 103,
+        "cantidad": 3,
+        "precio": 150.0,
+        "id_cliente": 3,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3e"
+            },
+            "id": 2,
+            "nombre": "Mar\u00c3\u00ada Garc\u00c3\u00ada"
+        }
+    },
+    {
+        "id_venta": 103,
+        "cantidad": 3,
+        "precio": 150.0,
+        "id_cliente": 3,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3f"
+            },
+            "id": 3,
+            "nombre": "Carlos S\u00c3\u00a1nchez"
+        }
+    },
+    {
+        "id_venta": 103,
+        "cantidad": 3,
+        "precio": 150.0,
+        "id_cliente": 3,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c40"
+            },
+            "id": 4,
+            "nombre": "Ana L\u00c3\u00b3pez"
+        }
+    },
+    {
+        "id_venta": 103,
+        "cantidad": 3,
+        "precio": 150.0,
+        "id_cliente": 3,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c41"
+            },
+            "id": 5,
+            "nombre": "Luis Mart\u00c3\u00adnez"
+        }
+    },
+    {
+        "id_venta": 104,
+        "cantidad": 4,
+        "precio": 120.0,
+        "id_cliente": 4,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3d"
+            },
+            "id": 1,
+            "nombre": "Juan P\u00c3\u00a9rez"
+        }
+    },
+    {
+        "id_venta": 104,
+        "cantidad": 4,
+        "precio": 120.0,
+        "id_cliente": 4,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3e"
+            },
+            "id": 2,
+            "nombre": "Mar\u00c3\u00ada Garc\u00c3\u00ada"
+        }
+    },
+    {
+        "id_venta": 104,
+        "cantidad": 4,
+        "precio": 120.0,
+        "id_cliente": 4,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3f"
+            },
+            "id": 3,
+            "nombre": "Carlos S\u00c3\u00a1nchez"
+        }
+    },
+    {
+        "id_venta": 104,
+        "cantidad": 4,
+        "precio": 120.0,
+        "id_cliente": 4,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c40"
+            },
+            "id": 4,
+            "nombre": "Ana L\u00c3\u00b3pez"
+        }
+    },
+    {
+        "id_venta": 104,
+        "cantidad": 4,
+        "precio": 120.0,
+        "id_cliente": 4,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c41"
+            },
+            "id": 5,
+            "nombre": "Luis Mart\u00c3\u00adnez"
+        }
+    },
+    {
+        "id_venta": 105,
+        "cantidad": 1,
+        "precio": 300.0,
+        "id_cliente": 5,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3d"
+            },
+            "id": 1,
+            "nombre": "Juan P\u00c3\u00a9rez"
+        }
+    },
+    {
+        "id_venta": 105,
+        "cantidad": 1,
+        "precio": 300.0,
+        "id_cliente": 5,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3e"
+            },
+            "id": 2,
+            "nombre": "Mar\u00c3\u00ada Garc\u00c3\u00ada"
+        }
+    },
+    {
+        "id_venta": 105,
+        "cantidad": 1,
+        "precio": 300.0,
+        "id_cliente": 5,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c3f"
+            },
+            "id": 3,
+            "nombre": "Carlos S\u00c3\u00a1nchez"
+        }
+    },
+    {
+        "id_venta": 105,
+        "cantidad": 1,
+        "precio": 300.0,
+        "id_cliente": 5,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c40"
+            },
+            "id": 4,
+            "nombre": "Ana L\u00c3\u00b3pez"
+        }
+    },
+    {
+        "id_venta": 105,
+        "cantidad": 1,
+        "precio": 300.0,
+        "id_cliente": 5,
+        "cliente_info": {
+            "_id": {
+                "$oid": "667e6b0b724ed7f3b43c5c41"
+            },
+            "id": 5,
+            "nombre": "Luis Mart\u00c3\u00adnez"
+        }
+    }
+]
